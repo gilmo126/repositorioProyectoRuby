@@ -1,0 +1,2 @@
+
+plugins=(git osx ruby rails bundler brew rake cap)
